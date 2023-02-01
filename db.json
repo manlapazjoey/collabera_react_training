@@ -9,17 +9,42 @@
       "text": "fasdfadsf",
       "isDone": false,
       "id": 3
+    },
+    {
+      "text": "Test",
+      "isDone": false,
+      "id": 4
     }
   ],
   "weatherList": [
     {
-      "cityName": "Ahmedabad",
-      "temp": 30,
+      "id": 1,
+      "cityName": "Calamba",
+      "temp": 28,
       "tempType": "C"
     },
     {
-      "cityName": "Mumbai",
-      "temp": 30,
+      "id": 2,
+      "cityName": "Binan",
+      "temp": 29,
+      "tempType": "C"
+    },
+    {
+      "id": 3,
+      "cityName": "Pila",
+      "temp": 28,
+      "tempType": "C"
+    },
+    {
+      "id": 4,
+      "cityName": "San Pablo",
+      "temp": 29,
+      "tempType": "C"
+    },
+    {
+      "id": 5,
+      "cityName": "San Pedro",
+      "temp": 29,
       "tempType": "C"
     }
   ]
